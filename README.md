@@ -72,10 +72,8 @@ $ java -jar Webstack-Guns-1.0.jar
 
 
 ## 感谢
-
-前端设计：[**WebStackPage**](https://github.com/WebStackPage/WebStackPage.github.io)
-
-后台框架：[**Guns**](https://github.com/stylefeng/Guns)
+下面是大佬的
+https://github.com/jsnjfz/WebStack-Guns
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**SpringBoot**
 
